@@ -23,7 +23,9 @@ Visual Studio Code is a source code editor that can be used with a variety of pr
 ### **GitHub**
 GitHub is a code hosting platform for collaboration and version control. 
 * We learned how to create new GitHub repositories to store down our files.
-* You can see multiple versions through the commits
+* You can see multiple versions and read the notes to what the changes are to the file.
   
 ---
 ### **Git**
+Git is a version control system.
+* We learned how to connect to a repository to upload different version controls to a project or file.
